@@ -1,0 +1,10 @@
+# Generated database (recreated by `make pipeline`)
+teiko.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
